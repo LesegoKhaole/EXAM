@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EXAM</string>
+    <string name="Weather">Weather</string>
+    <string name="lesego_khaole">Lesego Khaole</string>
+    <string name="st10455441">st10455441</string>
+    <string name="do_you_wish_to_enter">Do You Wish to enter?</string>
+    <string name="minimum_degrees_celcius_for_monday">Minimum (Degrees Celsius) for Monday</string>
+    <string name="maximum_degrees_Celcius_for_monday">Maximum (Degrees Celsius) for Monday</string>
+    <string name="monday_weather_condition">Monday Weather Condition</string>
+    <string name="clear">clear</string>
+    <string name="Record">Record</string>
+    <string name="back">back</string>
+</resources>
